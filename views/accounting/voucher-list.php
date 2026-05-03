@@ -1,0 +1,1 @@
+<?php $db=Database::connection(); $r=$db->query('SELECT * FROM vouchers ORDER BY id DESC')->fetchAll(); ?><table class='table'><tr><th>No</th><th>Date</th><th>Debit</th><th>Credit</th></tr><?php foreach($r as $v):?><tr><td><?=$v['voucher_no']?></td><td><?=$v['voucher_date']?></td><td><?=$v['total_debit']?></td><td><?=$v['total_credit']?></td></tr><?php endforeach;?></table>

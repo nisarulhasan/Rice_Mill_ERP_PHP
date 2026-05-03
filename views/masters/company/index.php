@@ -1,0 +1,1 @@
+<?php $pageTitle='masters/company/index'; ?><div class='container py-4'><h1>masters/company/index</h1><p>Module page scaffold.</p></div>

@@ -1,0 +1,1 @@
+<?php $pageTitle='layouts/print-layout'; ?><div class='container py-4'><h1>layouts/print-layout</h1><p>Module page scaffold.</p></div>

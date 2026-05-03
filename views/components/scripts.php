@@ -1,0 +1,1 @@
+<?php $pageTitle='components/scripts'; ?><div class='container py-4'><h1>components/scripts</h1><p>Module page scaffold.</p></div>

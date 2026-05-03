@@ -1,0 +1,1 @@
+<?php $pageTitle='components/modal-delete'; ?><div class='container py-4'><h1>components/modal-delete</h1><p>Module page scaffold.</p></div>
