@@ -1,0 +1,1 @@
+<?php $pageTitle='components/footer'; ?><div class='container py-4'><h1>components/footer</h1><p>Module page scaffold.</p></div>

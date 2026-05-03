@@ -1,0 +1,1 @@
+<?php $pageTitle='purchase/edit'; ?><div class='container py-4'><h1>purchase/edit</h1><p>Module page scaffold.</p></div>

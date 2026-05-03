@@ -1,0 +1,1 @@
+<?php $pageTitle='errors/404'; ?><div class='container py-4'><h1>errors/404</h1><p>Module page scaffold.</p></div>
